@@ -1,2 +1,0 @@
-modify a.txt
-modiff a.txt second time 
